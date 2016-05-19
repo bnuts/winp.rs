@@ -5,6 +5,14 @@ Read outputs of the process for Windows
 
 ## Usage
 
+Cargo.toml
+
+```toml
+[dependencies.winp]
+git = "https://github.com/bnuts/winp.rs.git"
+version = "*"
+```
+
 ```rust
 extern crate winp;
 
