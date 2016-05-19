@@ -1,0 +1,3 @@
+[submodule "winp-sys/winp.c"]
+	path = winp-sys/winp.c
+	url = https://github.com/bnuts/winp.c.git
