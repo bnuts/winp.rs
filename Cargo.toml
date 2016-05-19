@@ -1,0 +1,10 @@
+[package]
+name = "winp"
+description = "Read outputs of the process for Windows"
+version = "0.1.0"
+authors = ["bnuts <beehive.nuts@gmail.com>"]
+license = "MIT"
+
+[dependencies.winp-sys]
+path = "winp-sys"
+version = "0.1.0"
